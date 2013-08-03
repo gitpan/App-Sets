@@ -1,0 +1,23 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+bin/sets
+lib/App/Sets.pm
+lib/App/Sets/Iterator.pm
+lib/App/Sets/Parser.pm
+t/00-load.t
+t/10-sets.t
+t/20-module.t
+t/ASTest.pm
+t/pod-coverage.t
+t/pod.t
+'t/sample/lista 1'
+t/sample/lista-1
+t/sample/lista1
+t/sample/lista2
+t/sample/lista2-dos
+t/sample/sorted-lista-1
+t/sample/sorted-lista2

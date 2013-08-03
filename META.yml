@@ -1,0 +1,17 @@
+---
+abstract: 'set operations in Perl'
+author:
+  - 'Flavio Poletti <polettix@cpan.org>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300003, CPAN::Meta::Converter version 2.112150'
+license: artistic_2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: App-Sets
+requires:
+  perl: 5.008_000
+version: 0.972
