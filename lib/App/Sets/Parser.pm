@@ -1,11 +1,11 @@
 package App::Sets::Parser;
 {
-  $App::Sets::Parser::VERSION = '0.972';
+  $App::Sets::Parser::VERSION = '0.973';
 }
 use strict;
 use warnings;
 use Carp;
-use Log::Log4perl::Tiny qw< :easy >;
+use Log::Log4perl::Tiny qw< :easy :dead_if_first >;
 
 # ABSTRACT: parse input expressions of operations on sets
 
@@ -239,7 +239,7 @@ App::Sets::Parser - parse input expressions of operations on sets
 
 =head1 VERSION
 
-version 0.972
+version 0.973
 
 =begin grammar
 

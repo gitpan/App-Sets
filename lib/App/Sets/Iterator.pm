@@ -1,6 +1,6 @@
 package App::Sets::Iterator;
 {
-  $App::Sets::Iterator::VERSION = '0.972';
+  $App::Sets::Iterator::VERSION = '0.973';
 }
 use strict;
 use warnings;
@@ -40,7 +40,7 @@ App::Sets::Iterator - convenience iterator
 
 =head1 VERSION
 
-version 0.972
+version 0.973
 
 =head1 AUTHOR
 

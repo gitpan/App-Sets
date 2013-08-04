@@ -13,5 +13,6 @@ meta-spec:
   version: 1.4
 name: App-Sets
 requires:
+  Log::Log4perl::Tiny: 1.002_003
   perl: 5.008_000
-version: 0.972
+version: 0.973

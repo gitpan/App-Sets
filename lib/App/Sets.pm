@@ -1,6 +1,6 @@
 package App::Sets;
 {
-  $App::Sets::VERSION = '0.972';
+  $App::Sets::VERSION = '0.973';
 }
 
 # ABSTRACT: set operations in Perl
@@ -268,7 +268,7 @@ App::Sets - set operations in Perl
 
 =head1 VERSION
 
-version 0.972
+version 0.973
 
 =head1 AUTHOR
 
